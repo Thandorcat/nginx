@@ -1,0 +1,3 @@
+2017/06/01 12:21:45 [emerg] 24045#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/06/01 12:22:53 [error] 24057#0: *1 open() "/home/admin/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/06/01 12:22:53 [error] 24057#0: *1 open() "/home/admin/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
